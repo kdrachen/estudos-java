@@ -1,4 +1,4 @@
-package Fundamentos.VariaveisConstantes;
+package Fundamentos.Desafios;
 
 public class DesafioVarConst {
     public static void main(String[] args) {
