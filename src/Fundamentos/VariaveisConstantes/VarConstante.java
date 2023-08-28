@@ -9,5 +9,6 @@ public class VarConstante {
         Short TrintaMil = -32766;
         boolean Verdadeiro = true;
         float f = 1.3F;
+
     }
 }
