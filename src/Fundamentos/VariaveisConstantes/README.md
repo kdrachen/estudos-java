@@ -11,3 +11,4 @@
     <li>boolean</li>
     <li>float</li>
 </ul>
+<p>Para criar uma constante usar a palavra <stong>final</stong> antes de definir o tipo dela, exemplo: <strong>final</strong> int Idade = 19;</p>
