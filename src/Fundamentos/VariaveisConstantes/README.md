@@ -11,4 +11,5 @@
     <li>boolean</li>
     <li>float</li>
 </ul>
-<p>Para criar uma constante você precisa usar a palavra <strong>final</strong> antes de definir o tipo dela, exemplo: <strong>final</strong> int Idade = 19;</p>
+<p>Para criar uma constante você precisa usar a palavra <strong>final</strong> antes de definir o tipo dela 
+<h2>exemplo: <strong>final</strong> int Idade = 19;</p></h2>
