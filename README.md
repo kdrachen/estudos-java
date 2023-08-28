@@ -1,1 +1,2 @@
-<h1>Meus estudos de JAVA.</h1>
+<h1 style="color: green;">Meus estudos de JAVA.</h1>
+<p style="color: green;">> Status: Aprendendo</p>
