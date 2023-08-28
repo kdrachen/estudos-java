@@ -12,4 +12,4 @@
     <li>float</li>
 </ul>
 <p>Para criar uma constante você precisa usar a palavra <strong>final</strong> antes de definir o tipo dela 
-exemplo:<h2><br><strong>final</strong> int Idade = 19;</p></h2>
+<br><h1>exemplo:</h1>h1><h2><br><strong>final</strong> int Idade = 19;</p></h2>
