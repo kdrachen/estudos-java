@@ -1,4 +1,4 @@
-package Fundamentos.VariaveisConstantes;
+package Fundamentos;
 
 public class VarConstante {
     public static void main(String[] args) {
