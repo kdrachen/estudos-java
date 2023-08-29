@@ -21,5 +21,6 @@ public class TiposPrimitivos {
 
         // Dias de empresa
         System.out.println(anosDeEmpresa * 365);
+
     }
 }

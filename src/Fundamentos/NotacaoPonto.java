@@ -8,5 +8,6 @@ public class NotacaoPonto {
         int a = nome.length();
         System.out.println(nome);
         System.out.println(a);
+
     }
 }

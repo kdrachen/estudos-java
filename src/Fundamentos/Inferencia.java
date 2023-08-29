@@ -14,5 +14,6 @@ public class Inferencia {
         * - Certo -
         * var a = 12.5;
         * */
+
     }
 }
