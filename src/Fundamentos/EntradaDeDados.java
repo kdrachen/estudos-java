@@ -9,8 +9,10 @@ public class EntradaDeDados {
         String nome = ler.nextLine();
 
         System.out.print("Digite sua idade: ");
-        String idade = ler.nextLine();
+        int idade = ler.nextInt();
 
-        System.out.printf("Meu nome é %s, tenho %s anos.", nome, idade);
+        System.out.printf("%s tem %d anos", nome, idade);
+        ler.close();
+
     }
 }
