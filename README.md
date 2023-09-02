@@ -1,4 +1,4 @@
-<h1 style="display: flex; align-items: center;">Meus estudos de </h1>
+<h1 style="display: flex; align-items: center;">Meus estudos de Java</h1>
 
 <p>> <strong>Status:</strong> Aprendendo o básico da linguagem.</p>
 
