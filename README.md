@@ -6,7 +6,7 @@
 <h2>Quem sou eu:</h2>
 Meu nome é <b>Natã</b>, fiz um curso de desenvolvimento web no <b>IOS Joinville</b>, parceira da empresa <b>TOTVS</b>.
 Agora nesse momento estou estudando a linguagem de programação <b>Java</b>, nesse repositório é exclusivamente
-meu aprendizado em <b>Java</b>, não haverá outra linguagem envolvida
+meu aprendizado em <b>Java</b>, não haverá outra linguagem envolvida.
 
 <h2>Conteúdos vistos:</h2>
 <ul>
