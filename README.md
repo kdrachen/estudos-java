@@ -27,4 +27,4 @@ Esses desafios foram feitos por outra pessoa, gosto de fazer esses desafios para
 <h2>Contato:</h2>
 Clique na imagem para ser redirecionado.
 <br>
-<a href="https://www.linkedin.com/in/nat%C3%A3-wilian-barbosa/" Target="_blank"><img src="./src/Fundamentos/images/linkedin.png" height="90px" width="90px"></a>
+<a href="https://www.linkedin.com/in/nat%C3%A3-wilian-barbosa/" target="_blank"><img src="./src/Fundamentos/images/linkedin.png" height="90px" width="90px"></a>
