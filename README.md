@@ -25,7 +25,5 @@ Esses desafios foram feitos por outra pessoa, gosto de fazer esses desafios para
 </ul>
 
 <h2>Formas de contato:</h2>
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/nat%C3%A3-wilian-barbosa/" Target="_blank"><img src="./src/Fundamentos/images/linkedin.png" height="90px" width="90px"></a>
-    <a href="https://www.linkedin.com/in/nat%C3%A3-wilian-barbosa/" Target="_blank"><img src="./src/Fundamentos/images/instagram.png" height="55px" width="55px"></a>
-</div>
+<a href="https://www.linkedin.com/in/nat%C3%A3-wilian-barbosa/" Target="_blank"><img src="./src/Fundamentos/images/linkedin.png" height="90px" width="90px"></a>
+<a href="https://www.linkedin.com/in/nat%C3%A3-wilian-barbosa/" Target="_blank"><img src="./src/Fundamentos/images/instagram.png" height="55px" width="55px"></a>
