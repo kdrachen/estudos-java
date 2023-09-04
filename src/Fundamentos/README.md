@@ -3,7 +3,6 @@
 <h2>Tipos de váriaveis</h2>
 <p>Utilizar váriaveis, criá-las, definir um valor para elas, também aprendi os tipos de váriaveis no JAVA e criar constantes.</p>
 <ul>
-    <li>String não é tipo primitivo, é uma classe</li>
     <li>int</li>
     <li>char</li>
     <li>double</li>
