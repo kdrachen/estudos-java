@@ -27,8 +27,8 @@ public class DesafioConversao {
         double converterUm = Double.parseDouble(salarioUm);
         double converterDois = Double.parseDouble(salarioDois);
         double converterTres = Double.parseDouble(salarioTres);
-
         double media = (converterUm + converterDois + converterTres) / 3;
+
         System.out.printf("A média dos 3 salários é: %.2f", media);
     }
 }
