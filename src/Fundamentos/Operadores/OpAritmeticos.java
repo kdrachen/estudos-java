@@ -1,6 +1,6 @@
-package Fundamentos;
+package Fundamentos.Operadores;
 
-public class Aritmeticos {
+public class OpAritmeticos {
 
     public static void main(String[] args) {
 
