@@ -16,6 +16,7 @@ Esses desafios foram feitos por outra pessoa, gosto de fazer esses desafios para
 
 <ul>
     <li>Variável e constante (Conversão °F para °C)</li>
+    <li>Conversão de String para Double, pegar a média é fazer o calculo</li>
 </ul>
 
 <h2>Contato:</h2>
