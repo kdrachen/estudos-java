@@ -11,18 +11,16 @@ public class DesafioConversao {
         * Conseguir usar , e .
         * */
 
-        Scanner lerUm = new Scanner(System.in);
-        Scanner lerDois = new Scanner(System.in);
-        Scanner lerTres = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in);
 
         System.out.print("Digite o primeiro salário: ");
-        String salarioUm = lerUm.nextLine().replace(",", ".");
+        String salarioUm = entrada.nextLine().replace(",", ".");
 
         System.out.print("Digite o segundo salário: ");
-        String salarioDois = lerDois.nextLine().replace(",", ".");
+        String salarioDois = entrada.nextLine().replace(",", ".");
 
         System.out.print("Digite o terceiro salário: ");
-        String salarioTres = lerTres.nextLine().replace(",", ".");
+        String salarioTres = entrada.nextLine().replace(",", ".");
 
         double converterUm = Double.parseDouble(salarioUm);
         double converterDois = Double.parseDouble(salarioDois);
@@ -30,5 +28,6 @@ public class DesafioConversao {
         double media = (converterUm + converterDois + converterTres) / 3;
 
         System.out.printf("A média dos 3 salários é: %.2f", media);
+        entrada.close();
     }
 }
