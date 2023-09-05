@@ -1,6 +1,6 @@
 package Fundamentos.Desafios;
 
-public class DesafioVarConst {
+public class VarConst {
     public static void main(String[] args) {
 
         /*

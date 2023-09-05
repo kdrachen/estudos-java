@@ -2,7 +2,7 @@ package Fundamentos.Desafios;
 
 import java.util.Scanner;
 
-public class DesafioConversao {
+public class Conversao {
     public static void main(String[] args) {
         /*
         * Usar Scanner pegar 3 String
