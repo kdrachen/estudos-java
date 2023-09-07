@@ -1,4 +1,5 @@
 <h1>O que eu aprendi?</h1>
+<p>Fundamentos da linguagem Java</p>
 
 <h2>Tipos de váriaveis</h2>
 <p>Utilizar váriaveis, criá-las, definir um valor para elas, também aprendi os tipos de váriaveis no JAVA e criar constantes.</p>
@@ -24,3 +25,14 @@ Nesse caso o Java determina o tipo da váriavel para mim, mesma coisa que eu col
 <p>Conversão implícita: byte > short > int > long</p>
 <p>Conversão explícita: long > int > short > byte</p>
 <p>Explícita, ir de um tipo maior para menor pode haver perda de dados.</p>
+
+<h2>Operadores</h2>
+<ul>
+    <li>Aritméticos</li>
+    <li>Atribuição/li>
+    <li>Lógicos</li>
+    <li>Relacionais</li>
+    <li>Ternário</li>
+    <li>Unários</li>
+</ul>
+
