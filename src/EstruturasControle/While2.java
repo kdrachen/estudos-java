@@ -2,7 +2,7 @@ package EstruturasControle;
 
 import java.util.Scanner;
 
-public class WhileDois {
+public class While2 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
