@@ -10,7 +10,7 @@ public class NotaMedia {
         System.out.print("Digite a primeira nota: ");
         double nota1 = entrada.nextDouble();
 
-        System.out.print("Digite a primeira nota: ");
+        System.out.print("Digite a segunda nota: ");
         double nota2 = entrada.nextDouble();
         double media = (nota1 + nota2) / 2;
 
