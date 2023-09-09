@@ -8,7 +8,7 @@ public class SwitchSemBreak {
         // while(bool) ...
         // for(;bool;) ...
 
-        String faixa = "vermelha";
+        String faixa = "branca";
 
         switch(faixa.toLowerCase()) {
             case "preta":
