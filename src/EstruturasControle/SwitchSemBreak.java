@@ -10,7 +10,7 @@ public class SwitchSemBreak {
 
         String faixa = "vermelha";
 
-        switch (faixa.toLowerCase()) {
+        switch(faixa.toLowerCase()) {
             case "preta":
                 System.out.println("Sei o Bassai-Dai...");
             case "marrom":
@@ -31,7 +31,7 @@ public class SwitchSemBreak {
         }
 
         int idade = 2;
-        switch (idade) {
+        switch(idade) {
             case 3:
                 System.out.println("Sabe falar");
             case 2:
