@@ -10,10 +10,16 @@ public class DataTeste {
 
         Data antiga = new Data();
         antiga.dia = 1;
-        antiga.mes = 11;
+        antiga.mes = 9;
         antiga.ano = 1939;
 
+        Data reveillon = new Data();
+        reveillon.dia = 31;
+        reveillon.mes = 12;
+        reveillon.ano = 2023;
+
         System.out.printf("Data de hoje: %d/%d/%d\n", dataHoje.dia, dataHoje.mes, dataHoje.ano);
-        System.out.printf("Data de WWII: %d/%d/%d", antiga.dia, antiga.mes, antiga.ano);
+        System.out.printf("Data de WWII: %d/%d/%d\n", antiga.dia, antiga.mes, antiga.ano);
+        System.out.println("Data formatada: " + reveillon.obterDataFormatada());
     }
 }
