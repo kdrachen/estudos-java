@@ -1,4 +1,6 @@
-package ClassesMetodos.Desafios.Data;
+package ClassesMetodos;
+
+import ClassesMetodos.Data;
 
 public class DataTeste {
 
