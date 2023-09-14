@@ -15,6 +15,7 @@ public class Data {
         // boolean -> false
         // char -> '\u0000' primeiro char da tabela unicode
         // Objetos -> null
+
     }
 
     Data(int dia, int mes, int ano) {
