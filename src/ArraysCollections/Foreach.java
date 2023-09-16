@@ -1,6 +1,6 @@
 package ArraysCollections;
 
-public class foreach {
+public class Foreach {
 
     public static void main(String[] args) {
 
