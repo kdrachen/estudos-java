@@ -21,12 +21,12 @@ public class Array {
             contador += quantidadeTres;
         }
 
-//         OUTRA FORMA DE RESOLVER
-//         for (int i = 0; i <= notas.length - 1; i++) {
-//            System.out.printf("Digite a %d nota: ", i + 1);
-//            double inserirValor = notas[i] = entrada.nextDouble();
-//            contador += inserirValor;
-//         }
+/*         OUTRA FORMA DE RESOLVER
+         for (int i = 0; i <= notas.length - 1; i++) {
+            System.out.printf("Digite a %d nota: ", i + 1);
+            double inserirValor = notas[i] = entrada.nextDouble();
+            contador += inserirValor;
+         }*/
 
         double media = contador / notas.length;
         System.out.println("O Array ficou: " + Arrays.toString(notas));
