@@ -8,6 +8,15 @@ public class Compra {
     Compra compra;
     ArrayList<Item> itens = new ArrayList<Item>();
 
+    void addItem(Item item) {
+        this.itens.add(item);
+        item.compra = this;
+    }
+
+    void addItem(String nome, int quantidade, double preco) {
+        this.addItem(new Item(nome, quantidade, preco));
+    }
+
     double getValorTotal() {
         double total = 0;
 
