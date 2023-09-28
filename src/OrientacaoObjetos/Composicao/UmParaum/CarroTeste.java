@@ -1,4 +1,6 @@
-package OrientacaoObjetos.Composicao;
+package OrientacaoObjetos.Composicao.UmParaum;
+
+import OrientacaoObjetos.Composicao.UmParaum.Carro;
 
 public class CarroTeste {
 
