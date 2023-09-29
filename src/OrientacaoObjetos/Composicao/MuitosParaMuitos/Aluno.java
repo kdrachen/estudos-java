@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Composicao;
+package OrientacaoObjetos.Composicao.MuitosParaMuitos;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,8 +18,6 @@ public class Aluno {
     }
 
     Curso obterCursoPorNome(String nome) {
-        Curso procurado = null;
-
         for(Curso curso: this.cursos) {
             if(curso.nome.equalsIgnoreCase(nome)) {
                 return curso;

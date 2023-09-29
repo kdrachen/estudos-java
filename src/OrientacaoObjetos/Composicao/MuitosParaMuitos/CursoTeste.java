@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Composicao;
+package OrientacaoObjetos.Composicao.MuitosParaMuitos;
 
 public class CursoTeste {
 
