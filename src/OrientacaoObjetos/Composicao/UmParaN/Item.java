@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Composicao;
+package OrientacaoObjetos.Composicao.UmParaN;
 
 public class Item {
 

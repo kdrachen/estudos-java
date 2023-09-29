@@ -1,26 +1,26 @@
-package OrientacaoObjetos.Composicao;
+package OrientacaoObjetos.Composicao.UmParaN;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Compra {
 
     String cliente;
-    Compra compra;
-    ArrayList<Item> itens = new ArrayList<Item>();
+    List<Item> itens = new ArrayList<Item>();
+
+    void addItem(String nome, int quantidade, double preco) {
+        this.addItem(new Item(nome, quantidade, preco));
+    }
 
     void addItem(Item item) {
         this.itens.add(item);
         item.compra = this;
     }
 
-    void addItem(String nome, int quantidade, double preco) {
-        this.addItem(new Item(nome, quantidade, preco));
-    }
-
     double getValorTotal() {
         double total = 0;
 
-        for (Item item: itens) {
+        for(Item item: itens) {
             total += item.quantidade * item.preco;
         }
 
