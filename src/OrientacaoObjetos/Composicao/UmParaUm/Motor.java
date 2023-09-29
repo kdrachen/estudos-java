@@ -1,6 +1,4 @@
-package OrientacaoObjetos.Composicao.UmParaum;
-
-import OrientacaoObjetos.Composicao.UmParaum.Carro;
+package OrientacaoObjetos.Composicao.UmParaUm;
 
 public class Motor {
 
