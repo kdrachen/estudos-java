@@ -10,7 +10,11 @@ public class Teste {
         System.out.println("Carro => " + carro.velAtual);
         carro.acelerar();
         carro.acelerar();
-        carro.acelerar();
+        carro.frear();
+        carro.frear();
+        carro.frear();
+        carro.frear();
+        carro.frear();
         System.out.println("Carro => " + carro.velAtual);
         System.out.println();
 

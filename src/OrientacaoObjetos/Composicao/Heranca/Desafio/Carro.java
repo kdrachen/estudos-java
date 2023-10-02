@@ -7,16 +7,12 @@ public class Carro {
     void acelerar() {
         if(velAtual > 0) {
             velAtual += 5;
-        } else {
-            System.out.println("Carro tem a velocidade menor que 0!");
         }
     }
 
     void frear() {
         if(velAtual > 5) {
             velAtual -= 5;
-        } else {
-            System.out.println("Carro tem a velocidade menor que 10!");
         }
     }
 }
