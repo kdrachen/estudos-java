@@ -1,6 +1,6 @@
-package OrientacaoObjetos.Composicao.encapsulamento.CasaB;
+package OrientacaoObjetos.Composicao.Encapsulamento.CasaB;
 
-import OrientacaoObjetos.Composicao.encapsulamento.CasaA.Ana;
+import OrientacaoObjetos.Composicao.Encapsulamento.CasaA.Ana;
 
 public class Pedro extends Ana {
 

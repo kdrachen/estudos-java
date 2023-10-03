@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Composicao.encapsulamento.CasaA;
+package OrientacaoObjetos.Composicao.Encapsulamento.CasaA;
 
 public class Paulo {
 

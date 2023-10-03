@@ -1,7 +1,7 @@
 package OrientacaoObjetos.Composicao.Heranca.Desafio;
 
 public class Carro {
-    final private int VELOCIDADE_MAXIMA;
+    private final int VELOCIDADE_MAXIMA;
     public int velAtual = 10;
     protected int delta = 5;
 
