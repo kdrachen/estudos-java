@@ -7,7 +7,6 @@ public class Carro {
 
     public Carro(int velocidadeMaxima) {
         VELOCIDADE_MAXIMA = velocidadeMaxima;
-
     }
 
     public void acelerar() {
