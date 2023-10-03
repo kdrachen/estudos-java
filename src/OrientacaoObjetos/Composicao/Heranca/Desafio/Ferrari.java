@@ -2,9 +2,17 @@ package OrientacaoObjetos.Composicao.Heranca.Desafio;
 
 public class Ferrari extends Carro {
 
-    @Override
-    void acelerar() {
-        super.acelerar();
-        super.velAtual += 15;
+//    Ferrari() {
+//        this(200);
+//    }
+
+    public Ferrari(int velocidadeMaxima) {
+        super(velocidadeMaxima);
+        delta = 15;
     }
+
+//    @Override
+//    public void acelerar() {
+//        super.acelerar();
+//    }
 }

@@ -1,11 +1,15 @@
-package OrientacaoObjetos.Composicao.Heranca.Desafio;
+package OrientacaoObjetos.Composicao.Heranca.Teste;
+
+import OrientacaoObjetos.Composicao.Heranca.Desafio.Carro;
+import OrientacaoObjetos.Composicao.Heranca.Desafio.Civic;
+import OrientacaoObjetos.Composicao.Heranca.Desafio.Ferrari;
 
 public class Teste {
 
     public static void main(String[] args) {
-        Carro carro = new Carro();
-        Ferrari ferrari = new Ferrari();
-        Civic civic = new Civic();
+        Carro carro = new Carro(120);
+        Ferrari ferrari = new Ferrari(200);
+        Civic civic = new Civic(170);
 
         System.out.println("Carro => " + carro.velAtual);
         carro.acelerar();

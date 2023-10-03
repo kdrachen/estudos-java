@@ -2,9 +2,14 @@ package OrientacaoObjetos.Composicao.Heranca.Desafio;
 
 public class Civic extends Carro {
 
-    @Override
-    void acelerar() {
-        super.acelerar();
-        super.velAtual += 10;
+    public Civic(int velocidadeMaxima) {
+        super(velocidadeMaxima);
+        delta = 10;
     }
+
+//    @Override
+//    public void acelerar() {
+//        super.acelerar();
+//        super.velAtual += 10;
+//    }
 }
