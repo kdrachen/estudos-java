@@ -21,6 +21,5 @@ public class Carro {
         if(velAtual > 5) {
             velAtual -= 5;
         }
-
     }
 }
