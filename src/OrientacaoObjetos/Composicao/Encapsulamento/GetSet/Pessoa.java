@@ -32,7 +32,6 @@ public class Pessoa {
 
     public String getNomeCompleto() {
         return getNome() + " " + getSobrenome();
-
     }
 
     public int getIdade() {

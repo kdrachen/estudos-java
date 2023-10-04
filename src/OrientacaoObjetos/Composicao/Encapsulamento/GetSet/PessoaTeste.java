@@ -8,6 +8,5 @@ public class PessoaTeste {
         System.out.println(p1.getIdade());
         System.out.println(p1);
         System.out.println(p1.getNomeCompleto());
-
     }
 }
