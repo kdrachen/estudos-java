@@ -14,6 +14,7 @@ public class Teste {
         System.out.println("Carro => " + carro.velAtual);
         carro.acelerar();
         carro.acelerar();
+        System.out.println("Carro => " + carro.velAtual);
         carro.frear();
         carro.frear();
         carro.frear();
@@ -23,7 +24,9 @@ public class Teste {
         System.out.println();
 
         System.out.println("Ferrari => " + ferrari.velAtual);
+        ferrari.ligarTurbo();
         ferrari.acelerar();
+        System.out.println("Ferrari => " + ferrari.velAtual);
         ferrari.acelerar();
         ferrari.acelerar();
         System.out.println("Ferrari => " + ferrari.velAtual);
@@ -32,6 +35,7 @@ public class Teste {
         System.out.println("Civic => " + civic.velAtual);
         civic.acelerar();
         civic.acelerar();
+        System.out.println("Civic => " + civic.velAtual);
         civic.acelerar();
         System.out.println("Civic => " + civic.velAtual);
     }
