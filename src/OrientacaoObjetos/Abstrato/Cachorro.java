@@ -1,4 +1,4 @@
-package OrientacaoObjetos.Abistrato;
+package OrientacaoObjetos.Abstrato;
 
 public class Cachorro extends Mamifero {
 
