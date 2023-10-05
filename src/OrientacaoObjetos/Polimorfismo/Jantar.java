@@ -7,11 +7,13 @@ public class Jantar {
 
         Arroz ingrediente1 = new Arroz(0.2);
         Feijao ingrediente2 = new Feijao(0.10);
+        Comidas ingrediente3 = new Arroz(0.3);
 
         System.out.println(convidado.getPeso());
 
         convidado.comer(ingrediente1);
         convidado.comer(ingrediente2);
+        convidado.comer(ingrediente3);
 
         System.out.println(convidado.getPeso());
 

@@ -2,6 +2,10 @@ package OrientacaoObjetos.Heranca.Desafio;
 
 public interface Luxo {
 
-    void ligarAr();
-    void desligarAr();
+    public abstract void ligarAr();
+    public void desligarAr();
+
+    default int velocidadeDoAr() {
+        return 1;
+    }
 }

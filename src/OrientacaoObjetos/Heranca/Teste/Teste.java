@@ -38,5 +38,7 @@ public class Teste {
         System.out.println("Civic => " + civic.velAtual);
         civic.acelerar();
         System.out.println("Civic => " + civic.velAtual);
+
+        System.out.println(ferrari.velocidadeDoAr());
     }
 }
