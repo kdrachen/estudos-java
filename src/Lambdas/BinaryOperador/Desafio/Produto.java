@@ -1,10 +1,10 @@
-package Lambdas.Predicado;
+package Lambdas.BinaryOperador.Desafio;
 
 public class Produto { // extends Object
 
-    public final String nome;
-    public final double preco;
-    public final double desconto;
+    String nome;
+    double preco;
+    double desconto;
 
     public Produto(String nome, double preco, double desconto) {
         this.nome = nome;
