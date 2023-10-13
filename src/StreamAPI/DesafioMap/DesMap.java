@@ -20,10 +20,14 @@ public class DesMap {
 
         System.out.print("1 - ");
         nums.stream().map(toString).forEach(n -> System.out.print(n + " "));
+
         System.out.println();
+
         System.out.print("2 - ");
         nums.stream().map(toString).map(reverse).forEach(n -> System.out.print(n + " "));
+
         System.out.println();
+
         System.out.print("3 - ");
         nums.stream().map(toString).map(reverse).map(toInt).forEach(n -> System.out.print(n + " "));
 
