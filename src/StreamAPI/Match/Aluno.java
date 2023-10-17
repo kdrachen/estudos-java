@@ -3,7 +3,7 @@ package StreamAPI.Match;
 public class Aluno {
 
     final String nome;
-    double nota;
+    public double nota;
     final boolean bomComportamento;
 
     public Aluno(String nome, double nota) {
