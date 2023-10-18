@@ -6,9 +6,9 @@ public class Basico {
 
         Aluno a1 = null;
 
-        try {
+        try{
             imprimirNomeDoAluno(a1);
-        } catch (Exception e) {
+        } catch (NullPointerException e) { // Exception e
             System.out.println("Ocorreu um erro no momento de imprimir o nome do usuário!");
         }
 
