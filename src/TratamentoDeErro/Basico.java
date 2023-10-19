@@ -9,7 +9,7 @@ public class Basico {
         try {
             imprimirNomeDoAluno(a1);
         } catch (NullPointerException e) { // Exception e
-            System.out.println("Ocorreu um erro no momento de imprimir o nome do usuário!");
+            System.out.println("Ocorreu o erro: " + e.getMessage());
         }
 
         try {
