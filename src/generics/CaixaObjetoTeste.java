@@ -6,7 +6,13 @@ public class CaixaObjetoTeste {
         CaixaObjeto caixaA = new CaixaObjeto();
         caixaA.guardar(2.3); // double -> Double
 
-        Double coisa = (Double) caixaA.abrir();
-        System.out.println(coisa);
+        Double coisaA = (Double) caixaA.abrir();
+        System.out.println(coisaA);
+
+        CaixaObjeto caixaB = new CaixaObjeto();
+        caixaA.guardar("Olá");
+
+        String coisaB = (String) caixaA.abrir();
+        System.out.println(coisaB);
     }
 }
